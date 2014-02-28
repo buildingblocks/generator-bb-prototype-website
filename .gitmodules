@@ -1,6 +1,6 @@
 [submodule "app/templates"]
 	path = app/templates
-	url = git://github.com/buildingblocks/BBProject.git
+	url = https://github.com/buildingblocks/bb-prototype-website.git
 [submodule "bb-prototype-website/templates"]
 	path = bb-prototype-website/templates
 	url = https://github.com/buildingblocks/bb-prototype-website.git
