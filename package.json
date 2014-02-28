@@ -1,6 +1,6 @@
 {
   "name": "generator-bb-prototype-website",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Front end project boilerplate for Less based sites. Used at Building Blocks Ltd.",
   "main": "app/index.js",
   "repository": {
@@ -11,6 +11,11 @@
     "yeoman-generator",
     "less",
     "framework",
+    "assemble",
+    "templates",
+    "handlebars",
+    "site generator",
+    "site builder",
     "buildingblocks"
   ],
   "author": {
