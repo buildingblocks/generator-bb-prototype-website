@@ -1,6 +1,6 @@
 {
   "name": "generator-bb-prototype-website",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Front end project boilerplate for Less based sites. Used at Building Blocks Ltd.",
   "main": "app/index.js",
   "repository": {
